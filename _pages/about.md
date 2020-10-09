@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-你好！/ Hi! / Hallo!
+Hallo!
 
-I'm a postdoc/junior scientist in the Observational Relativity and Cosmology Department of Max Planck Institute of Gravitationalphysics (Albert Einstein Institute).
-
+I'm a postdoc/junior scientist in the Observational Relativity and Cosmology Department of Max Planck Institute of Gravitationalphysics (Albert Einstein Institute). My research focuses on data analysis of gravitational waves and its scientific implications.
 
