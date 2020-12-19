@@ -8,8 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hallo/Hi/你好！
+Hi/Hallo/你好！
 
-I'm a junior scientist in the [Observational Relativity and Cosmology](https://www.aei.mpg.de/obs-rel-cos) department of [Max Planck Institute for Gravitationalphysics (Albert Einstein Institute)](https://www.aei.mpg.de). I'm mostly interested in investigating observational consequences of general relativity. Currently, my research focuses especially on data analysis and scientific implications of gravitational waves from compact binary coalescence, such as testing the validity of general relativity in strong field and high energy region, looking for novel gravitational wave signals predicted by general relativity, etc.
+I'm a postdoc/junior scientist in the [Department of Observational Relativity and Cosmology](https://www.aei.mpg.de/obs-rel-cos) of [Max Planck Institute for Gravitationalphysics (Albert Einstein Institute)](https://www.aei.mpg.de).  I focus on the data analysis and interpretation of *gravitational wave* from compact binary coalescence, and implications for relativity and cosmology.
 
-My research projects are summarized in this page! (coming soon...)
+ Recently I am especially interested in: 
+
+- Searching for primordial black hole dark matter signals in gravitational wave
+- Testing general relativity with detected gravitational-wave events, and searching for exotic signals beyond general relativity
+- Building waveform templates of gravitational wave from eccentric compact binary coalescence
