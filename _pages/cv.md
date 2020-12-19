@@ -20,4 +20,4 @@ Work experience
 
 
 
-My full CV is [here](resume.pdf).
+My full CV is [here](http://yi-fan-wang.github.io/files/resume.pdf).

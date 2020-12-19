@@ -5,12 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+My publicaiton list is [here](http://yi-fan-wang.github.io/files/Yifan-PL.pdf).
 
-{% include base_path %}
+You can also find my articles on [INSPIREHEP](https://inspirehep.net/authors/1487679?ui-citation-summary=true).
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
