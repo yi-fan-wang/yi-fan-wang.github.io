@@ -17,3 +17,8 @@ I'm a postdoc/junior scientist in the [Department of Observational Relativity an
 - Searching for primordial black hole dark matter signals in gravitational wave
 - Testing general relativity with detected gravitational-wave events, and searching for exotic signals beyond general relativity
 - Building waveform templates of gravitational wave from eccentric compact binary coalescence
+
+
+### To desipher my name
+
+My name consists of three Chinese characters (Wang and Yi and Fan). Moreover, Chinese family name comes first (for me, Wang), follwed by the given name (Yi Fan). Therefore, in China, people would call me Wang Yi Fan (王一帆), which literally means "one sail" and metaphorically means a voyage.
