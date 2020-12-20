@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-I also publish under the name of Yi-Fan Wang.
+I publish under the name Yifan Wang or Yi-Fan Wang.
 
 My publicaiton list is [here](http://yi-fan-wang.github.io/files/Yifan-PL.pdf).
 
