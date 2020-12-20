@@ -21,4 +21,4 @@ I'm a postdoc/junior scientist in the [Department of Observational Relativity an
 
 ### To desipher my name
 
-My name consists of three Chinese characters (Wang and Yi and Fan). Moreover, Chinese family name comes first (for me, Wang), follwed by the given name (Yi Fan). Therefore, in China, people would call me Wang Yi Fan (王一帆), which literally means "one sail" and metaphorically means a voyage.
+My name consists of three Chinese characters (Wang and Yi and Fan). Moreover, Chinese family name comes first (for me, Wang), follwed by the given name (Yi Fan). Therefore, in China, people would call me Wang Yi Fan (王一帆). My given name literally means "one sail" and metaphorically means a voyage.
