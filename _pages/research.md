@@ -11,7 +11,7 @@ author_profile: true
 
 My current research interests are analyzing gravitational wave data from compact binary coalescence and exploring its implications. Some research topics of mine:
 
-###### Primordial Black Hole: 
+### Primordial Black Hole: 
 
 - Search for high-mass-ratio sources. [Github repo](https://github.com/gwastro/stellar-pbh-search)
 - Search for eccentric subsolar mass binareis. [Github repo](https://github.com/gwastro/subsolar-ecc-primordial-search)
@@ -19,7 +19,7 @@ My current research interests are analyzing gravitational wave data from compact
 - Primordial black hole EMRIs with space-based detectors. [arxiv](https://arxiv.org/abs/1910.07397)
 - Stochastic gravitational-wave background from primordial black hole binaries. [arxiv](https://arxiv.org/abs/1610.08725)
 
-###### Testing General Relativity:
+### Testing General Relativity:
 
 - Testing parity of gravity. [Github repo](https://github.com/yi-fan-wang/ParitywithGW) [arxiv](https://arxiv.org/abs/2002.05668)
 - Systematics using GW to test general relativity. [arxiv](https://arxiv.org/abs/1802.03306)

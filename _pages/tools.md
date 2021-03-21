@@ -9,7 +9,7 @@ author_profile: true
 
 I list some programming codes relevant to my research.
 
-#### PyCBC
+### PyCBC
 
 [PyCBC](https://pycbc.org) is a primary tool in my research, which can analyze gravitational wave data from compact binary coalescence.
 
@@ -18,12 +18,12 @@ I list some programming codes relevant to my research.
 
 
 
-#### Machine Learning
+### Machine Learning
 
 - [A gitlab repository](https://gitlab.aei.uni-hannover.de/yifan.wang/summer-machinelearning) for summer intern student
 
 
 
-#### Gravitational Waveform Modeling
+### Gravitational Waveform Modeling
 
-- [SEOBNRE](https://gitlab.aei.uni-hannover.de/yifan.wang/eccentricity) developed by Prof Zhoujian Cao and his students.
+- PyCBC plugin for [SEOBNRE](https://gitlab.aei.uni-hannover.de/yifan.wang/eccentricity) developed by Prof Zhoujian Cao and his students.
