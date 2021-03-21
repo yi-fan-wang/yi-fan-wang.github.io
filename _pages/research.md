@@ -26,7 +26,7 @@ My current research interests are analyzing gravitational wave data from compact
 
 
 
-When I was undergradute student I used to study cosmology, inspired by the broad interested on primordial gravitaitonal waves and CMB (cosmic microwave background) in 2014.
+When I was undergradute student I used to study cosmology, inspired by the broad interests on primordial gravitaitonal waves and CMB (cosmic microwave background) in 2014.
 
 - Constraining Neutrino mass with cosmology observation. [paper1](https://arxiv.org/abs/1608.00672) [paper2](https://arxiv.org/abs/1707.00588)
 
