@@ -9,9 +9,26 @@ author_profile: true
 
 
 
-- Searching for primordial black hole dark matter signals in gravitational wave
-- Testing general relativity with detected gravitational-wave events, and searching for exotic signals beyond general relativity
-- Building waveform templates of gravitational wave from eccentric compact binary coalescence
+My current research interests are analyzing gravitational wave data from compact binary coalescence and exploring its implications. Some research topics of mine:
 
-(details coming soon)
+###### Primordial Black Hole: 
+
+- Search for high-mass-ratio sources. [Github repo](https://github.com/gwastro/stellar-pbh-search)
+- Search for eccentric subsolar mass binareis. [Github repo](https://github.com/gwastro/subsolar-ecc-primordial-search)
+- Event rate modeling for eccentric subsolar mass binaries. [Github repo](https://github.com/gwastro/prospects-subsolarmass-ecc)
+- Primordial black hole EMRIs with space-based detectors. [arxiv](https://arxiv.org/abs/1910.07397)
+- Stochastic gravitational-wave background from primordial black hole binaries. [arxiv](https://arxiv.org/abs/1610.08725)
+
+###### Testing General Relativity:
+
+- Testing parity of gravity. [Github repo](https://github.com/yi-fan-wang/ParitywithGW) [arxiv](https://arxiv.org/abs/2002.05668)
+- Systematics using GW to test general relativity. [arxiv](https://arxiv.org/abs/1802.03306)
+
+
+
+When I was undergradute student I used to study cosmology, inspired by the broad interested on primordial gravitaitonal waves and CMB (cosmic microwave background) in 2014.
+
+- Constraining Neutrino mass with cosmology observation. [paper1](https://arxiv.org/abs/1608.00672) [paper2](https://arxiv.org/abs/1707.00588)
+
+​	
 
