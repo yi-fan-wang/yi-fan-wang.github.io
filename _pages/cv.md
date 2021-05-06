@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV&Paper"
 permalink: /cv/
 author_profile: true
 ---

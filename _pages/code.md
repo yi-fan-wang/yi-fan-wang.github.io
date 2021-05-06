@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Research Tools"
-permalink: /tools/
+
+permalink: /code/
 author_profile: true
 ---
 
