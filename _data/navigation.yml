@@ -3,11 +3,11 @@ main:
   - title: "Research"
     url: /research/
     
-  - title: "Publications"
-    url: /publications/
-    
-  - title: "CV"
+  - title: "CV&Paper"
     url: /cv/
   
-  - title: "Tools"
+  - title: "Codes"
     url: /tools/
+
+  - title: "Notes"
+    url: /publications/
