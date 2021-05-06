@@ -6,8 +6,8 @@ main:
   - title: "CV&Paper"
     url: /cv/
   
-  - title: "Codes"
+  - title: "Code"
     url: /tools/
 
-  - title: "Notes"
+  - title: "Note"
     url: /notes/
